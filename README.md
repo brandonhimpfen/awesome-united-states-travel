@@ -4,6 +4,8 @@
 
 > A curated list of resources for traveling in the United States, covering official tourism portals, national parks, rail and transit networks, regional guides, and safety services.
 
+The United States is a vast North American destination spanning diverse biomes, from major metropolitan cultural centers and coastal cities to iconic federal national parks and desert monuments. This list is intended for cross-country road-trip travelers, national park explorers, urban tourists, and outdoor adventurers.
+
 ## Contents
 
 - [Official & Planning](#official--planning)

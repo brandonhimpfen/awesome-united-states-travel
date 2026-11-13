@@ -67,6 +67,7 @@ Navigating national passenger rail networks, intercity buses, domestic aviation,
 Resources for exploring America's protected federal public lands, monuments, and recreational areas.
 
 - [National Park Service (NPS Official Portal)](https://www.nps.gov/) - Official federal agency managing America's 400+ national parks, monuments, historical sites, and recreation areas.
+- [Which Park Pass](https://whichparkpass.com) - Free calculator for comparing America the Beautiful pass costs with per-park entrance fees, including 2026 nonresident fees.
 
 ## Safety & Emergency Services
 
